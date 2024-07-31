@@ -1,10 +1,7 @@
 
 # Project Name: AudioBook Time Calculator in C
 
-<img src="Images/image-2.png" alt="audiowave" width="120" alignment="center"/>
-<img src="Images/image-3.png" alt="microphone" width="120" alignment="center"/>
-<img src="Images/clock.png" alt="audiowave" width="120" alignment="center"/>
-<img src="Images/calculator.png" alt="microphone" width="120" alignment="center"/>
+<img src="Images/image-2.png" alt="audiowave" width="120" alignment="center"/> <img src="Images/image-3.png" alt="microphone" width="120" alignment="center"/> <img src="Images/clock.png" alt="audiowave" width="120" alignment="center"/> <img src="Images/calculator.png" alt="microphone" width="120" alignment="center"/>
 
 
 ## Project Overview:

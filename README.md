@@ -44,7 +44,7 @@ Once all the above tools and extensions are installed and configured, you are re
 
 Clone the project
 ```bash
-  git clone https://github.com/anonymous913/audiobook.git
+  git clone https://github.com/anonymous913/AudioBook-Time-Calculator-in-C.git
 ```
 
 Go to the project directory

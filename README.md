@@ -16,8 +16,6 @@ Simply enter the required values, and the program will display the calculated to
 ## Programming Languages Used:  
 ``` - C ```
 
-
-
 ## Requirements for Running this Program
 
 - **Visual Studio Code (VSCode)**: [Download Visual Studio Code](https://code.visualstudio.com/Download)
@@ -42,12 +40,12 @@ Once all the above tools and extensions are installed and configured, you are re
 
 ## Run Locally
 
-Clone the project
+**Clone the project:**
 ```bash
   git clone https://github.com/anonymous913/AudioBook-Time-Calculator-in-C.git
 ```
 
-Go to the project directory
+**Go to the project directory:**
 
 ```bash
   For C: cd C 
@@ -59,8 +57,8 @@ Go to the project directory
 ```bash
 gcc 1_basic_structure_of_ab_calculator.c -o 1_basic_structure_of_ab_calculator.exe
 ```
-  **Then executing the result by:** 
-  
+  **Then executing the results by:** 
+
   ```bash
   .\1_basic_structure_of_ab_calculator
 ```  
@@ -73,9 +71,10 @@ gcc 1_basic_structure_of_ab_calculator.c -o 1_basic_structure_of_ab_calculator.e
 
 | AudioBook  | AudioBook Play |
 | ------------- |:-------------:|
-|<img src="Images/image-2.png" alt="audiowave" width="120" alignment="center"/>  |<img src="Images/image-3.png" alt="microphone" width="120" alignment="center"/> |
-| <img src="Images/audiobook.png" alt="audiobook" width="150"/>    | <img src="Images/audiobook_play.png" alt="audioplay" width="170"/>    
-|<img src="Images/clock.png" alt="clock" width="120" alignment="center"/> |<img src="Images/calculator.png" alt="calculator" width="120" alignment="center"/>|
+| <img src="Images/image-2.png" alt="audiowave" width="120" alignment="center"/> |<img src="Images/image-3.png" alt="microphone" width="120" alignment="center"/> |
+| <img src="Images/audiobook.png" alt="audiobook" width="150"/> | <img src="Images/audiobook_play.png" alt="audioplay" width="170"/> | 
+| <img src="Images/clock.png" alt="clock" width="120" alignment="center"/> | <img src="Images/calculator.png" alt="calculator" width="120" alignment="center"/> |
 
+<br>
 
 ## If you have any problems with this project, please feel free to contact or submit an issue.

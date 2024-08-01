@@ -55,10 +55,18 @@ Go to the project directory
 
 ### Build & Run the C Executable File
 
+**For Result first build an exe file:**
 ```bash
-  For Result first build an exe file: gcc 1_basic_structure_of_ab_calculator.c -o 1_basic_structure_of_ab_calculator.exe
-  then executing the result by: .\1_basic_structure_of_ab_calculator
+gcc 1_basic_structure_of_ab_calculator.c -o 1_basic_structure_of_ab_calculator.exe
+```
+  **Then executing the result by:** 
+  
+  ```bash
+  .\1_basic_structure_of_ab_calculator
 ```  
+
+**Just Copy & Paste the Above Commands In VSCode Terminal ↑** 
+
 <br>
 
 ## ! Enjoy Your AudioBok and Get The Track Record !
